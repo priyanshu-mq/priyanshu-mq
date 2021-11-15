@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyanshu Bhesaniya
 - 👀 I’m interested in JS Technologies
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently working with ReactJS
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me - priyanshu.multiqos@gmail.com
 
